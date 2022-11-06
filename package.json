@@ -17,6 +17,7 @@
     "webpack-dev-server": "^4.11.1"
   },
   "dependencies": {
+    "@faker-js/faker": "^7.6.0",
     "css-loader": "^6.7.1",
     "sass-loader": "^13.1.0",
     "style-loader": "^3.3.1"
