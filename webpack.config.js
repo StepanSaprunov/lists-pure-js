@@ -45,5 +45,13 @@ module.exports = {
             filename: "index.html",
             template: "src/index.html"
         }),
+        new HtmlWebpackPlugin({
+            filename: "infiniteScrolling.html",
+            template: "src/pages/infiniteScrolling.html"
+        }),
+        new HtmlWebpackPlugin({
+            filename: "pagination.html",
+            template: "src/pages/pagination.html"
+        }),
     ]
 }
